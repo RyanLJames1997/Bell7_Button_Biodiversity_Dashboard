@@ -2,6 +2,16 @@
 Module 14 Challenge: UWA/ edX Data Analytics & Visualisation Bootcamp
 Dashboard Results: [https://github.com/RyanLJames1997/Belly_Button_Biodiversity_Dashboard](https://github.com/RyanLJames1997/Belly_Button_Biodiversity_Dashboard)
 
+## Table of Content
+- `Introduction`
+- `Goal`
+- `Dataset`
+- `Part 1` : Horizontal Bar Chart
+- `Part 2` : Bubble Chart
+- `Part 3` : MetaData Information
+- `Bonus Section` : Belly Button Washing Frequency Gauge Graph
+- `References`
+
 ## Introduction
 
 ### Goal
