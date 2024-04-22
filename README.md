@@ -35,7 +35,7 @@ Description of documents included in this repository:
 ## Dashboard Creation
 
 <img width="678" alt="Belly_Button_Dashboard_Preview" src="https://github.com/RyanLJames1997/Belly_Button_Biodiversity_Dashboard/assets/141802851/a3fc12cb-9cd5-40c3-87ba-002dc9fc581c">
-- This project used in amalgamation with code structures found at [`plotly.js`](https://plotly.com/javascript/)
+- This project used in amalgamation with code structures found at [![Plotly][plotly.js]][plotlyjs-url]
 
 
 
