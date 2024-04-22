@@ -6,10 +6,11 @@ Dashboard Results: [https://github.com/RyanLJames1997/Belly_Button_Biodiversity_
 - `Introduction`
 - `Goal`
 - `Dataset`
-- `Part 1` : Horizontal Bar Chart
-- `Part 2` : Bubble Chart
-- `Part 3` : MetaData Information
-- `Bonus Section` : Belly Button Washing Frequency Gauge Graph
+- `Dashboard Summary`
+   - `Part 1` : Horizontal Bar Chart
+   - `Part 2` : Bubble Chart
+   - `Part 3` : MetaData Information
+   - `Bonus Section` : Belly Button Washing Frequency Gauge Graph
 - `References`
 
 ## Introduction
