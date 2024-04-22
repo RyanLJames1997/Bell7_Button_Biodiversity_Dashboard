@@ -15,9 +15,11 @@ Description of documents included in this repository:
 
 1. `index.html` : Showcases the [`html`](https://github.com/RyanLJames1997/Belly_Button_Biodiversity_Dashboard/blob/main/Starter_Code/index.html) code.
 2. `static_folder` : Includes the completed [`app.js`](https://github.com/RyanLJames1997/Belly_Button_Biodiversity_Dashboard/blob/main/Starter_Code/static/js/app.js) code.
-3. `images_file` : Screenshots of completed [`dashboard`] and [`graphs`](https://github.com/RyanLJames1997/Belly_Button_Biodiversity_Dashboard/tree/main/Starter_Code/Images)
-4. `samples.json` : Belly_Button JSON URL file data found @
-      "https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json";
+3. `images_file` : Screenshots of completed [`dashboard & graphs`](https://github.com/RyanLJames1997/Belly_Button_Biodiversity_Dashboard/tree/main/Starter_Code/Images)
+4. `samples.json` : Belly_Button JSON URL file data @ 
+   ```sh
+   "https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json";
+   ```   
 
 ## Dashbaord
 
