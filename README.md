@@ -86,7 +86,11 @@ Test Subject ID No: `940`
 ## References
 
 Plotly: [Plotly: Bubble Charts](https://plotly.com/javascript/bubble-charts/)
+
+Plotly: [Plotly: Gauge Charts](https://plotly.com/python/gauge-charts/)
+
 Colour Designer: [Colour Scale Generator](https://colordesigner.io/gradient-generator)
+
 Coding:
 - Aspects of Syntax code was taken from edX bootcamp module 14 slides.
 - Chatgpt for Syntax
